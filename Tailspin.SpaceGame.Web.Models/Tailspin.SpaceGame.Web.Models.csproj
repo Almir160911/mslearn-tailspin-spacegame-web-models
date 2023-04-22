@@ -4,6 +4,5 @@
     <TargetFramework>net6.0</TargetFramework>
   </PropertyGroup>
 
-</Project>
-
 <add key="fernandesalmir31" value="https://pkgs.dev.azure.com/fernandesalmir31/_packaging/fernandesalmir31/nuget/v3/index.json" />
+</Project>
